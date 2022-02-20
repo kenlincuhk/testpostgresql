@@ -1,2 +1,2 @@
 # kenpostgresql
-Ken PostgreSQL testing with Datagrip
+PostgreSQL testing
