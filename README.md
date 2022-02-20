@@ -1,2 +1,2 @@
-# kenpostgresql
+# testpostgresql
 PostgreSQL testing
